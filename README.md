@@ -27,6 +27,17 @@ The project covers the complete machine learning workflow:
 ## 📊 Dataset
 
 **Credit Card Fraud Detection Dataset**
+The dataset used for this project is the Credit Card Fraud Detection Dataset.
+
+Due to file size limitations, the dataset is not included in this repository.
+
+You can download it from:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place the file here:
+
+data/raw/creditcard.csv
 
 Dataset Statistics:
 
