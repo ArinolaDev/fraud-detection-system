@@ -265,7 +265,7 @@ fraud-detection-system/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fraud-detection-system.git
+https://github.com/ArinolaDev/fraud-detection-system.git
 ```
 
 Move into the project:
